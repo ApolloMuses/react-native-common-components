@@ -9,4 +9,4 @@ export * from './Functions';
 export * from './MyAppText';
 export * from './ContainerView';
 export * from './NamePhoto';
-export * from './Deck';
+export * from './AnimatedDeck';
